@@ -1,4 +1,5 @@
 Lien Slides : https://github.com/user257814938/Hackathon_1/blob/main/Slides.pptx
+
 Lien vidéo :
 
 ---
@@ -139,4 +140,5 @@ Hackathon_1/
 
 Ce projet démontre l’importance des données RH dans la compréhension du turnover et de la performance des employés.  
 Grâce à l’analyse des variables clés et à la visualisation des corrélations, il propose des pistes concrètes pour **optimiser la politique RH et renforcer la rétention du personnel**.
+
 
